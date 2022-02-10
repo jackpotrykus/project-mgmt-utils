@@ -1,0 +1,9 @@
+{
+  "include": [ "nquire", "tests" ],
+  "exclude": [ "notebooks", "**/__pycache__" ],
+  "ignore": [ ],
+  "venv": ".venv",
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.8",
+}
